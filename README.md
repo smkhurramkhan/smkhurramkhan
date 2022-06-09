@@ -16,11 +16,11 @@ Facebook Audience network Integration, Facebook Api's intergration, JetPack Comp
  ######  💬 Ask me about ...
  Latest Android Technologies and issues related to android apps. 
  
- ![Khurram's GitHub stats](https://github-readme-stats.vercel.app/api?username=smkhurramkhan&count_private=true&show_icons=true&theme=dracula)
+ ![Khurram's GitHub stats](https://github-readme-stats.vercel.app/api?username=smkhurramkhan&count_private=true&show_icons=true&theme=radical)
  </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smkhurramkhan&layout=compact&theme=dracula)](https://github.com/smkhurramkhan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smkhurramkhan&layout=compact&theme=radical)](https://github.com/smkhurramkhan/github-readme-stats)
 </br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smkhurramkhan&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smkhurramkhan&theme=radical)](https://git.io/streak-stats)
 <!--
 **smkhurramkhan/smkhurramkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
