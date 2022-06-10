@@ -6,18 +6,103 @@ Creative Android Developer with 3+ years of Experience in Android application de
 
 </div>
 
+- **Technologies**
+<table>
+<tbody>
+ <tr>
+<td align="center">
+<img height=60px src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"> 
+</td>
 
+<td align="center">
+<img height=80px src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> 
+</td>
+    <td align="center">
+<img height=80px src="https://www.vectorlogo.zone/logos/android/android-icon.svg"> 
+</td>
 
+   <td align="center">
+<img height=60px src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> 
+</td>
+  
 
-######  📫 How to reach me: .
->. Gmail: smkhurramkhan@gmail.com </br>
->. Outlook: smkhurramkhan@outlook.com </br>
-> linkedin: https://www.linkedin.com/in/smkhurramkhan/
+  <td align="center">
+<img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
+</td>
+
+<td align="center">
+<img height=70px src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> 
+</td>
+
+<td align="center">
+<img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"> 
+</td>
+  
+<td align="center">
+<img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"> 
+</td>
+  
+  
+  
+  
+</tr>
+
  
- ######  💬 Ask me about ...
- Latest Android Technologies and issues related to android apps. 
+  <tr>
+     <td align="center">
+<img height=60px src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg"> 
+</td>
+   
+  <td align="center">
+<img height=60px src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> 
+</td>
+
+<td align="center">
+<img height=80px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
+</td>
+   
+   
+<td align="center">
+<img height=70px src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"> 
+</td>
+  
+   <td align="center">
+<img height=60px src="https://www.vectorlogo.zone/logos/google_admob/google_admob-ar21.svg"> 
+</td>
+  
+  <td align="center">
+<img height=80px src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"> 
+</td>
+
+
+
+<td align="center">
+<img height=60px src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> 
+</td>
+  
+  <td align="center">
+<img height=60px src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> 
+</td>
+  
+  
+  
+</tr>
  
- ⚡ Lanugages: Java, Kotlin, Php, HTML, CSS, JS
+</tbody>
+</table>
+
+
+
+####  📫 How to reach me: .
+<p align="start">
+	<a href="mailto:smkhurramkhan@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	  <a href="mailto:smkhurramkhan@outlook.com/"><img src="https://img.icons8.com/bubbles/50/000000/email.png" alt="Email"/></a>
+	<a href="https://www.linkedin.com/in/smkhurramkhan/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	
+</p>
+
+
+
  
  
    <p>
@@ -29,14 +114,18 @@ Creative Android Developer with 3+ years of Experience in Android application de
   </p>
   
  
- ![Khurram's GitHub stats](https://github-readme-stats.vercel.app/api?username=smkhurramkhan&count_private=true&show_icons=true&theme=radical)
-</br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smkhurramkhan&layout=compact&theme=radical)](https://github.com/smkhurramkhan/github-readme-stats)
+ ![Khurram's GitHub stats](https://github-readme-stats.vercel.app/api?username=smkhurramkhan&count_private=true&show_icons=true&theme=radical) &nbsp;&nbsp;
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smkhurramkhan&theme=radical)](https://git.io/streak-stats)
 </br> </br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smkhurramkhan&theme=radical)](https://git.io/streak-stats) </br></br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=smkhurramkhan&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smkhurramkhan&layout=compact&theme=radical)](https://github.com/smkhurramkhan/github-readme-stats)
 
-
+<p align="center">
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=smkhurramkhan&theme=radical&margin-h=15&margin-w=5&alt="TROPHY" />
+    </a>
+</div>
+</p>
 <!--
 **smkhurramkhan/smkhurramkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
