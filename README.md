@@ -1,9 +1,7 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm S M Khurram Khan</h1>
-<h4 align="center">
-Creative Android Developer with 3+ years of Experience in Android application development.</br></h4>
-
-
+<p align="start">
+Creative Android Developer with 3+ years of Experience in Android application development. Specialized in Kotlin , Java , Design Patterns(MVC, MVP, MVVM , MVI, Clean architecture) Room, Retrofit, DI , Flow , Firebase, Google Admob Integration, Facebook Audience network Integration, Facebook Api's intergration, JetPack Compose etc.
+	</p>
 </div>
 
 - **Technologies**
