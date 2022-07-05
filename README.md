@@ -23,46 +23,19 @@ Creative Android Developer with 3+ years of Experience in Android application de
 <img height=60px src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> 
 </td>
   
-
   <td align="center">
-<img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
+<img height=80px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
 </td>
-
-<td align="center">
-<img height=70px src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> 
-</td>
-
-<td align="center">
-<img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"> 
-</td>
-  
-<td align="center">
-<img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"> 
-</td>
-  
-  
-  
-  
+ 
 </tr>
 
  
   <tr>
-     <td align="center">
-<img height=60px src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg"> 
-</td>
-   
+
   <td align="center">
 <img height=60px src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> 
 </td>
-
-<td align="center">
-<img height=80px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
-</td>
    
-   
-<td align="center">
-<img height=70px src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"> 
-</td>
   
    <td align="center">
 <img height=60px src="https://www.vectorlogo.zone/logos/google_admob/google_admob-ar21.svg"> 
