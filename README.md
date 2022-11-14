@@ -1,6 +1,6 @@
 <div align="center">
 <p align="start">
-Creative Android Developer with 3+ years of Experience in Android application development. Specialized in Kotlin , Java , Design Patterns(MVC, MVP, MVVM , MVI, Clean architecture) Room, Retrofit, DI , Flow , Firebase, Google Admob Integration, Facebook Audience network Integration, Facebook Api's intergration, JetPack Compose etc.
+Creative Android Developer with 3+ years of Experience in Android application development. Specialized in Kotlin , Java , Design Patterns(MVC, MVP, MVVM , MVI, Clean architecture and Single activity architecture) Room DB, Retrofit, DI , Flow , Firebase, Google Admob Integration, Facebook Audience network Integration, Facebook Api's intergration, JetPack Compose etc.
 	</p>
 </div>
 
