@@ -92,7 +92,6 @@ Creative Android Developer with 6+ years of Experience in Android application de
     </a>
   </div>
   
-</br> </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smkhurramkhan&layout=compact&theme=radical)](https://github.com/smkhurramkhan/github-readme-stats)
 
 <p align="center">
