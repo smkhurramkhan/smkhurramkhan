@@ -86,11 +86,7 @@ Creative Android Developer with 7+ years of Experience in Android application de
  
  ![Khurram's GitHub stats](https://github-readme-stats.vercel.app/api?username=smkhurramkhan&count_private=true&show_icons=true&theme=radical) &nbsp;&nbsp;
 
- <div>
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats-seven-azure.vercel.app/?user=smkhurramkhan&theme=dark&hide_border=false&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=daily" alt="GitHub Streak" style="margin-top: 20px;"/>
-    </a>
-  </div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=smkhurramkhan&theme=dark)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smkhurramkhan&layout=compact&theme=radical)](https://github.com/smkhurramkhan/github-readme-stats)
 
